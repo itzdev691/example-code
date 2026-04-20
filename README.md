@@ -23,7 +23,7 @@ Here's a brief overview of the code examples included in this repository:
 - **Python**: Basic scripts and functions
 - **JavaScript**: Frontend web examples
 - **Java**: Simple console applications
-- - **C++**: Simple program and functions
+- **C++**: Simple program and functions
 
 ## Contributing
 If you would like to contribute to this repository, feel free to create a pull request! All contributions welcome!
