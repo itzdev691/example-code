@@ -1,10 +1,10 @@
-// This is a python test.
+# This is a python test.
 
 
-print"helloWorld";
+print("helloWorld")
 
-a = "2"
+a = 2
 b = 3
 
-# In this function we are printing a + b.
+# In this function we are printing print(a + b.)
 print(a, b)
