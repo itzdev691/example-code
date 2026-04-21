@@ -7,4 +7,4 @@ a = 2
 b = 3
 
 # In this function we are printing print(a + b.)
-print(a, b)
+print(a + b)
